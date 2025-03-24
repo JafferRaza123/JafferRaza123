@@ -1,15 +1,30 @@
-# 👋 Hi, I’m Jaffer Raza
+# 👋 Hi, I’m Jaffer Raza  
 
-🔹 **DevOps Engineer | Cloud Enthusiast | Automation Expert**  
+🔹 **DevOps Engineer | Cloud & Automation Enthusiast | CI/CD Specialist**  
 
-I specialize in designing, implementing, and optimizing cloud infrastructure and CI/CD pipelines. With hands-on experience in AWS, Kubernetes, and automation tools, I aim to bridge the gap between development and operations.  
+I specialize in designing and implementing scalable infrastructure, automating deployments, and optimizing cloud environments. My expertise lies in DevOps tools, CI/CD pipelines, and cloud computing, ensuring seamless software delivery and high system reliability.  
 
-## 🚀 About Me  
-- 👀 **Passionate about** DevOps, Cloud Computing, and Infrastructure as Code (IaC).  
-- 🌱 **Currently learning** Kubernetes, Helm, and advanced AWS services.  
-- 💡 **Skilled in** Docker, Ansible, Terraform, CI/CD, and cloud security best practices.  
-- 💞️ **Looking to collaborate on** open-source DevOps projects, automation scripts, and cloud-native applications.  
-- 📫 **Reach me at** [LinkedIn](https://www.linkedin.com/in/jafferraza/).  
-- ⚡ **Fun fact**: I love optimizing workflows and automating everything possible!  
+## 🚀 **Skills & Tools**  
+- **DevOps Engineering** | CI/CD: Jenkins, GitLab CI/CD  
+- **Cloud Platforms**: AWS, Microsoft Azure  
+- **Infrastructure as Code**: Terraform, Ansible  
+- **Operating Systems**: Linux (Ubuntu, CentOS), Windows Servers  
+- **Containerization & Orchestration**: Docker, Kubernetes (EKS, ECS)  
+- **Monitoring & Logging**: Prometheus, Grafana, SolarWinds, Zabbix, PRTG  
+- **Networking & Security**: SD-WAN, Load Balancers  
+- **Scripting & Automation**: Bash, YAML  
+- **Version Control**: Git, GitLab  
+- **Project Management**: Redmine, Jira  
+- **Virtualization & Hypervisors**: VirtualBox  
 
-📌 **Check out my repositories to see my work!** 🚀  
+## 💡 **What I’m Working On**  
+🚀 **Enhancing CI/CD workflows for high-performance applications**  
+📦 **Optimizing Kubernetes deployments & container security**  
+🔍 **Improving observability with Prometheus & Grafana**  
+
+## 📫 **Get in Touch**  
+- **LinkedIn**: [Jaffer Raza](https://www.linkedin.com/in/jafferraza/)  
+- **Email**: [jaffer123m@gmail.com].  
+- **GitHub Repositories**: Explore my work on **DevOps, cloud automation, and infrastructure management!**  
+
+🔥 **Let’s connect and collaborate on exciting projects!** 🚀  
